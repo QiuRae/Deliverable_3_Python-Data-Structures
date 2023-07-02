@@ -1,0 +1,15 @@
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\bin\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.exe
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\bin\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.deps.json
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\bin\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.runtimeconfig.json
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\bin\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.dll
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\bin\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.pdb
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.csproj.AssemblyReference.cache
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.AssemblyInfoInputs.cache
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.AssemblyInfo.cs
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.csproj.CoreCompileInputs.cache
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.dll
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\refint\Deliverable_1_Conditional and Iterative Statement.dll
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.pdb
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\Deliverable_1_Conditional and Iterative Statement.genruntimeconfig.cache
+C:\Users\92384\source\repos\Deliverable_1_Conditional and Iterative Statement\obj\Debug\net6.0\ref\Deliverable_1_Conditional and Iterative Statement.dll
